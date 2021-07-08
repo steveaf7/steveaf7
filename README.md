@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Steven Fralix
-- 👀 I’m interested in data science, Python, music, dogs, 
+- 👀 I’m interested in data science, Python, music, dogs, health/fitness.
 - 🌱 I’m currently learning at the Tech Academy as part of their Software Development program
-- 💞️ I’m looking to collaborate on beginner data science/software development projects
+- 💞️ I’m looking to collaborate on Python, and/or C# projects, and I'm always game to learn something new. 
 - 📫 How to reach me steveaf7@gmail.com
 
 <!---
